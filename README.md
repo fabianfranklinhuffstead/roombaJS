@@ -2,8 +2,8 @@
 
 <u>Usage:</u>
 <br>
-    node roomba.js input.txt<br>
-    node roomba.js input.txt -v
+    <b>node roomba.js input.txt</b><br>
+    <b>node roomba.js input.txt</b> -v
 
 <u>Instructionse:</u>
 To run the application simply use the command inside /javascript-test directory:
