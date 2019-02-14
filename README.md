@@ -51,9 +51,9 @@ switch case
 EDIT I apply a change to the directions to ensure contraints are met.
 
 <h2>Key</h2>
-1 Equals Dirty
-0 Equals Clean
-X Equals Hoover
+1 Equals Dirty<br>
+0 Equals Clean<br>
+X Equals Hoover<br>
 
 <h2>Initialise values</h2>
 Starting location [0,nmax]
@@ -61,10 +61,10 @@ Starting location [0,nmax]
 <h2>Output</h2>
 <u>Testing format:</u>
 
-[ [ 0, 0, 0, 0, 0 ],
-  [ 0, 0, 0, 0, 0 ],
-  [ 0, 0, 1, 1, 0 ],
-  [ 1, 0, 'X', 0, 0 ],
+[ [ 0, 0, 0, 0, 0 ],<br>
+  [ 0, 0, 0, 0, 0 ],<br>
+  [ 0, 0, 1, 1, 0 ],<br>
+  [ 1, 0, 'X', 0, 0 ],<br>
   [ 0, 0, 0, 0, 0 ] ]
 
 print final x, y position
