@@ -5,7 +5,7 @@
     <b>node roomba.js input.txt</b><br>
     <b>node roomba.js input.txt</b> -v
 
-<u>Instructionse:</u>
+<u>Instructions:</u><br>
 To run the application simply use the command inside /javascript-test directory:
 this will compile and print the result.
 Running the command with -v will run in verbose mode which will print a visual
@@ -20,7 +20,7 @@ testing format to view.
 <li>Print final position and pieces of dirt clean
 </ul>
 
-<u>Description/Interpretation</u>
+<u>Description/Interpretation</u><br>
 Bottom left corner is the point of origin for our coordinate system which is 0,0.
 Locations of patches of dirt are relative.
 The hoover position which is relative.
