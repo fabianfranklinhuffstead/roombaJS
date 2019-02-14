@@ -1,6 +1,7 @@
 <h1>JS Test</h1>
 
 <u>Usage:</u>
+<br>
     node roomba.js input.txt<br>
     node roomba.js input.txt -v
 
@@ -47,7 +48,7 @@ W = [y][x-1]
 <u>Driving into a wall effect:</u>
 
 switch case
-    return position or max grid size
+    return position or max grid size<br>
 EDIT I apply a change to the directions to ensure contraints are met.
 
 <h2>Key</h2>
