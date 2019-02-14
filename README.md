@@ -1,7 +1,7 @@
 <h1>JS Test</h1>
 
 <u>Usage:</u>
-    node roomba.js input.txt
+    node roomba.js input.txt<br>
     node roomba.js input.txt -v
 
 <u>Instructionse:</u>
