@@ -2,6 +2,7 @@
 
 <u>Usage:</u>
 <br>
+<br>
     <b>node roomba.js input.txt</b><br>
     <b>node roomba.js input.txt</b> -v
 
