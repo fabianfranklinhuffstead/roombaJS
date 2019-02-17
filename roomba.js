@@ -20,8 +20,8 @@ for(var i = 2; i <= arr.length -2; i++){
 }
 
 //Init Grid
-const xGrid = grid[0];
-const yGrid = grid[2];
+const xGrid = grid.split(" ")[0]
+const yGrid = grid.split(" ")[1]
 let empty = [];
 for (var i = 0; i < xGrid; i++){
     empty.push([0]);
