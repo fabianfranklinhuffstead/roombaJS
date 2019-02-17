@@ -85,5 +85,5 @@ const move = (direction) => {
 for (i in instructions){
         move(instructions[i]);
 }
-(() => { if(option == '-v'){ console.log('\nEnd');console.log(empty);} })() //verbose option
+(() => { if(option == '-v'){ console.log("\nEnd");console.log(empty);} })() //verbose option
 console.log(dirtcleaned+"\n"+invertY(yHoover)+" "+xHoover);
